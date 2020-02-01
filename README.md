@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Introduction
 You made it! By now you should have a really firm grasp on the fundamentals of JavaScript. Of course there’s plenty more to learn, but you should be able to create quite a bit at this point. Our final project is going to combine everything you’ve learned so far: you’re going to make an on-screen calculator using JavaScript, HTML, and CSS.
@@ -29,4 +30,7 @@ Here are some use cases (abilities your project needs to have):
 8. EXTRA CREDIT: Make it look nice! This can be a good portfolio project… but not if it’s UGLY. At least make the operations a different color from the keypad buttons.
 9. EXTRA CREDIT: Add a “backspace” button, so the user can undo if they click the wrong number.
 10. EXTRA CREDIT: Add keyboard support!
+=======
+# Calculator
+>>>>>>> master
 
